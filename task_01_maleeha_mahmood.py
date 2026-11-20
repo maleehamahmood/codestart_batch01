@@ -4,7 +4,7 @@
  Task 01: Variables, Data Types, Input, Operators & Typecasting
 ==============================================================
 
- Name     : ____________________
+ Name     : Maleeha Mahmood
 
  Save as  : yourname_task_01.py   (example: ali_task_01.py)
  Deadline : Friday, 20 November 2026, 9:00 PM (PKT)
